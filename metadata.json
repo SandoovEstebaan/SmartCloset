@@ -1,0 +1,6 @@
+{
+  "name": "SmartCloset",
+  "description": "SmartCloset es un armario virtual inteligente que te permite digitalizar tu ropa, organizar prendas por categoría y generar sugerencias automáticas de combinaciones (outfits).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
